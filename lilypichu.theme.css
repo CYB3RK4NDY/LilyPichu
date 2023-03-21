@@ -29,14 +29,14 @@
 .theme-dark {
   /* Text */
   --text-normal: #415E2B;
-  --header-primary: #436F2B;
+  --header-primary: #497329;
   --interactive-normal: #436D24;
   --channels-default: #3C641E;
 
   --text-muted: #44612F;
   --interactive-muted: #44612F;
 
-  --header-secondary: #6A8D51;
+  --header-secondary: #81A563;
   --interactive-hover: #8DAE75;
   --interactive-active: #9BC07F;
 
