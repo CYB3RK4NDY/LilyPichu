@@ -28,13 +28,13 @@
 
 .theme-dark {
   /* Text */
-  --text-normal: #FFCEDB;
-  --header-primary: #FFCEDB;
-  --interactive-normal: #E1ACBA;
-  --channels-default: #FFCEDB;
+  --text-normal: #659243;
+  --header-primary: #517C30;
+  --interactive-normal: #436D24;
+  --channels-default: #3C641E;
 
-  --text-muted: #E1ACBA;
-  --interactive-muted: #E1ACBA;
+  --text-muted: #44612F;
+  --interactive-muted: #44612F;
 
   --header-secondary: #E1ACBA;
   --interactive-hover: #E1ACBA;
