@@ -28,7 +28,7 @@
 
 .theme-dark {
   /* Text */
-  --text-normal: #4E782E;
+  --text-normal: #334624;
   --header-primary: #517C30;
   --interactive-normal: #436D24;
   --channels-default: #3C641E;
@@ -41,8 +41,8 @@
   --interactive-active: #E1ACBA;
 
   /* Background color */
-  --background-primary: #E1ACBA;
-  --background-secondary: #E1ACBA;
+  --background-primary: #7A9E5E;
+  --background-secondary: #5D853D;
   --background-secondary-alt: #496832;
   --background-tertiary: #385324;
   --background-floating: #2E3F21;
