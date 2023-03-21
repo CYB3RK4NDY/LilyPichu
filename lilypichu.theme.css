@@ -36,9 +36,9 @@
   --text-muted: #44612F;
   --interactive-muted: #44612F;
 
-  --header-secondary: #E1ACBA;
-  --interactive-hover: #E1ACBA;
-  --interactive-active: #E1ACBA;
+  --header-secondary: #44612F;
+  --interactive-hover: #375223;
+  --interactive-active: #51713B;
 
   /* Background color */
   --background-primary: #E1ACBA;
