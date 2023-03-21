@@ -36,13 +36,13 @@
   --text-muted: #44612F;
   --interactive-muted: #44612F;
 
-  --header-secondary: #7DB156;
+  --header-secondary: #E1ACBA;
   --interactive-hover: #E1ACBA;
   --interactive-active: #E1ACBA;
 
   /* Background color */
-  --background-primary: #E1ACBA;
-  --background-secondary: #E1ACBA;
+  --background-primary: #799E5E;
+  --background-secondary: #608445;
   --background-secondary-alt: #496832;
   --background-tertiary: #385324;
   --background-floating: #2E3F21;
